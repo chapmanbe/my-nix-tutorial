@@ -16,3 +16,14 @@
 - https://app.cachix.org/cache/chapmanbe#push
 - https://nickel-lang.org/
 - https://nix.dev/recommended-reading
+
+## direnv
+
+- https://direnv.net/
+- https://direnv.net/docs/hook.html
+- https://hardselius.github.io/2020/nix-shell-and-direnv/
+
+## elvish
+
+- https://elv.sh/learn/tour.html
+- https://elv.sh/ref/language.html#number
